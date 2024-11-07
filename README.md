@@ -1,4 +1,4 @@
-![logo]=(https://github.com/Shivu384/Shivu384/blob/main/Github%20Banner.png)
+![logo](https://github.com/Shivu384/Shivu384/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shivam Arora</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
