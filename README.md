@@ -1,7 +1,8 @@
+![logo]=(https://github.com/Shivu384/Shivu384/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shivam Arora</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
+<img align="right" alt="coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivu384&label=Profile%20views&color=0e75b6&style=flat" alt="shivu384" /> </p>
 
