@@ -45,7 +45,11 @@
 
 ## 📈 Contribution Graph:
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Shivu384&theme=react-dark&hide_border=false&area=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivu384/Shivu384/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivu384/Shivu384/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Shivu384/Shivu384/output/github-snake.svg" width="100%" />
+</picture>
 
 ### ✍️ Random Dev Quote
 
